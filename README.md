@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, It's me Manmeet Kaur Khanooja..!! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manmeeeeetttt" alt="manmeeeeetttt" /> </p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=manmeeeeetttt&theme=onedark" alt="manmeeeeetttt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manmeeeeetttt&show_icons=true&theme=onedark" alt="manmeeeeetttt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmeeeeetttt&layout=compact&hide=html&show_icons=true&theme=onedark" alt="manmeeeeetttt" /></p>
 
 <!--
 **manmeeeeetttt/manmeeeeetttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
